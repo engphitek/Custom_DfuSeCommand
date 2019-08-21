@@ -36,3 +36,5 @@ DfuSeCommand.exe [options] [Agrument][[options] [Agrument]...]
      --fn  file_name   : full path name (.dfu file)
   -g                   (Generates a dfu file from the hex file )
   Usage Example: DfuSeCommand.exe -g path/file.hex -out path/file.dfu -Vid 0483 -Pid DF11
+  
+  
